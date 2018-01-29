@@ -1,0 +1,48 @@
+.page{
+	width: 780px;
+	margin:auto;
+	font-size: 16px;
+	font-family: "Times New Roman", Georgia, Serif
+}
+.infophoto{
+	height: 250px;
+}
+.info{
+	float: left;
+}
+.photo{
+	float: right;
+}
+.section{
+	margin-bottom: 40px;
+	text-align: justify;
+}
+.section-gauche{
+	float: left;
+	font-weight: bold;
+	font-size: 20px;
+}
+.Section-droite{
+	margin-left: 150px;
+	padding-left: 95px;
+
+
+}
+strong{
+	font-size: 26px;
+}
+.important{
+	font-size: 28px;
+	color:blue;
+	text-transform: uppercase;
+	border-bottom: 5px solid #3388DD;
+	font-weight:bolder;
+}
+.tit{
+	font-weight: bold;
+	font-size: 20px;
+	padding-left: 50px;
+}
+#forma-gauche p{
+	margin-bottom: 23px;
+}

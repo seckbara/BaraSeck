@@ -57,8 +57,11 @@
     <div class="container">
         <div class="col-md-12">
             <div class="form-area">
-                <form role="form" action="#">
+                <form role="form" action="scripts/envoie.php" id="form" method="post">
                     <br style="clear:both">
+                    <div class="alert alert-success" id="success" role="alert" style="display: none">
+                        Votre mail a été envoyer.
+                    </div>
                     <h3 style="margin-bottom: 25px; text-align: center;">Formulaire de contact</h3>
                     <div class="form-group">
                         <input type="text" class="form-control" id="name" name="name" placeholder="Nom" required>
@@ -76,7 +79,7 @@
                         <textarea class="form-control" type="textarea" id="message" placeholder="Message" maxlength="140" rows="7"></textarea>
                     </div>
 
-                    <button type="button" id="submit" name="submit" class="btn btn-primary pull-right">Envoyer</button>
+                    <button type="submit" id="submit" name="submit" class="btn btn-primary pull-right">Envoyer</button>
                 </form>
             </div>
         </div>
@@ -157,11 +160,14 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 <script src="assets/js/template.js"></script>
+
 <script>
-    $(document).ready(function(){
-            $.post( "test.php", { name: "John", time: "2pm" })
-                .done(function( data ) {
-                alert( "Data Loaded: " + data );
+
+    $("form").submit(function(e){
+        e.preventDefault();
+        $.post( "scripts/envoie.php", { data: $( this ).serializeArray() })
+            .done(function( data ) {
+                $('#success').show();
             });
     });
 

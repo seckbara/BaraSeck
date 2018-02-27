@@ -1,18 +1,12 @@
 <?php
 
-$t = $_POST;
-$test = 12;
 include '../mailin-smtp-api-master/Mailin.php';
 
 $mailin = new Mailin('seckbara12@hotmail.com', 'xz6Gknv2VWjmOX7r');
 $mailin->
-addTo('seckbara12@hotmail.com', 'Bara SECK')->
-setFrom('seckbara12@hotmail.com', 'Bara SECK')->
-setReplyTo('seckbara12@hotmail.com','Bara SECK')->
-setSubject('Entrer le sujet ici')->
-setText('Bonjour')->
-setHtml('<strong>Bonjour</strong>');
-$res = $mailin->send();
-$i = $res;
-
-header('Location: ../contact.php');
+addTo('baraseck1208@gmail.com', 'Bara SECK')->
+setFrom($_POST['email'], $_POST['name'])->
+setSubject($_POST['subject'])->
+setText($_POST['content'])->
+setHtml('<strong>'.$_POST['content'].'</strong> <br><br><br> Téléphone :'.$_POST['mobile']);
+$mailin->send();

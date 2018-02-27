@@ -76,7 +76,7 @@
                         <input type="text" class="form-control" id="subject" name="subject" placeholder="Sujet" required>
                     </div>
                     <div class="form-group">
-                        <textarea class="form-control" type="textarea" id="message" placeholder="Message" maxlength="140" rows="7"></textarea>
+                        <textarea class="form-control" name="content" type="textarea" id="message" placeholder="Message" maxlength="140" rows="7"></textarea>
                     </div>
 
                     <button type="submit" id="submit" name="submit" class="btn btn-primary pull-right">Envoyer</button>
@@ -165,7 +165,7 @@
 
     $("form").submit(function(e){
         e.preventDefault();
-        $.post( "scripts/envoie.php", { data: $( this ).serializeArray() })
+        $.post( "scripts/envoie.php", $(this).serializeArray())
             .done(function( data ) {
                 $('#success').show();
             });

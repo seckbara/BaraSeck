@@ -1,7 +1,7 @@
 <header id="header">
     <div id="head" class="parallax" parallax-speed="2">
         <h1 id="logo" class="text-center">
-            <img class="img-circle" src="assets/images/bara.jpeg" alt="">
+            <img class="img-circle" src="assets/images/bara.jpg" alt="">
             <span class="title"><b>Développeur Web Junior</b>
 			<h5>Bara Mamadou Seck</h5>
         </h1>

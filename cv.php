@@ -38,7 +38,7 @@
             <a href="CV.pdf" target="_blank" class="btn btn-primary btn-sm">Visualiser mon cv en pdf</a>
         </div>
 		<div class="photo">
-			<img src="assets/images/bara.jpeg" width="180" height="180">
+			<img src="assets/images/bara.jpg" width="180" height="180">
 		</div>
 	</div>
     <div class="section">

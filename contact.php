@@ -25,32 +25,7 @@
 </head>
 <body>
 
-<header id="header">
-    <div id="head" class="parallax" parallax-speed="1">
-        <h1 id="logo" class="text-center">
-            <span class="title">Bara Mamadou Seck</span>
-            <span class="tagline">Développeur Web Junior<br><br>
-        </h1>
-    </div>
-
-    <nav class="navbar navbar-default">
-        <div class="container-fluid">
-
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-            </div>
-
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li class="active"><a href="index.html">Accueil</a></li>
-                    <li><a href="cv.html">CV</a></li>
-                    <li><a href="projets.html">Réalisation</a></li>
-                    <li><a href="contact.php">Contact</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-</header>
+<?php include 'assets/include/header2.php'?>
 
 <main id="main">
 
@@ -78,7 +53,7 @@
                     <div class="form-group">
                         <textarea class="form-control" name="content" type="textarea" id="message" placeholder="Message" maxlength="140" rows="7"></textarea>
                     </div>
-
+<!--                    <div class="form-group g-recaptcha" data-sitekey="6LeZZkkUAAAAADw1cMfXiESMonPKcO_xJ-uvNRxk"></div>-->
                     <button type="submit" id="submit" name="submit" class="btn btn-primary pull-right">Envoyer</button>
                 </form>
             </div>
@@ -86,80 +61,13 @@
     </div>
 </main>
 
-<footer id="footer" class="topspace">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3 widget">
-                <h3 class="widget-title">Contact:</h3>
-                <div class="widget-body">
-                    <p>0033698627516<br>
-                        <a href="mailto:#">seckbara12@hotmail.com</a><br>
-                        <br>
-                        10 place du marche 95800 Cergy
-                    </p>
-                </div>
-            </div>
-
-            <div class="col-md-3 widget">
-                <h3 class="widget-title">Suivez moi sur les Réseaux sociaux:</h3>
-                <div class="widget-body">
-                    <p class="follow-me-icons">
-                        <a href=""><i class="fa fa-twitter fa-2"></i></a>
-                        <a href=""><i class="fa fa-dribbble fa-2"></i></a>
-                        <a href=""><i class="fa fa-github fa-2"></i></a>
-                        <a href=""><i class="fa fa-facebook fa-2"></i></a>
-                    </p>
-                </div>
-            </div>
-
-            <div class="col-md-3 widget">
-                <h3 class="widget-title"></h3>
-                <div class="widget-body">
-                    <p></p>
-                    <p></p>
-                </div>
-            </div>
-
-            <div class="col-md-3 widget">
-                <h3 class="widget-title"></h3>
-                <div class="widget-body">
-                    <p>0033698627516<br>
-                        <a href="mailto:#">seckbara12@hotmail.com</a><br>
-                        <br>
-                        10 place du marche 95800 Cergy
-                    </p>
-                </div>
-            </div>
-
-        </div> <!-- /row of widgets -->
-    </div>
-</footer>
-
-<footer id="underfooter">
-    <div class="container">
-        <div class="row">
-
-            <div class="col-md-6 widget">
-                <div class="widget-body">
-                    <p>10 place du marche 95800 Cergy</p>
-                </div>
-            </div>
-
-            <div class="col-md-6 widget">
-                <div class="widget-body">
-                    <p class="text-right">
-                        Copyright &copy; 2016, Bara Mamadou Seck<br>
-                </div>
-            </div>
-
-        </div> <!-- /row of widgets -->
-    </div>
-</footer>
+<?php include 'assets/include/footer.php'?>
 
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 <script src="assets/js/template.js"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
 
 <script>
 

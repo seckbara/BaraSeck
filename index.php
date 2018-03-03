@@ -21,31 +21,7 @@
 </head>
 <body class="home">
 
-<header id="header">
-	<div id="head" class="parallax" parallax-speed="2">
-		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="assets/images/bara.jpeg" alt="">
-			<span class="title"><b>Développeur Web Junior</b>
-			<h5>Bara Mamadou Seck</h5>
-		</h1>
-	</div>
-	<nav class="navbar navbar-default navbar-sticky">
-		<div class="container-fluid">
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-			</div>
-			<div class="navbar-collapse collapse">
-				<ul class="nav navbar-nav">
-					<li class="active"><a href="index.html">Accueil</a></li>
-					<li><a href="cv.html">CV</a></li>
-					<li><a href="projets.html">Réalisation</a></li>
-					<!--<li><a href="blog.html">Photos</a></li>-->
-					<li><a href="contact.php">Contact</a></li>
-				</ul>
-			</div>
-		</div>
-	</nav>
-</header>
+<?php include 'assets/include/header.php'?>
 
 <main id="main">
 
@@ -54,7 +30,7 @@
 			<div class="col-md-12">
 			<h2 align="center" class="cli">Bienvenue ! </h2><br>
 			<p class="paragraphe">
-			Je suis un développeur web junior et diplômé d'une Licence en informatique suivi d'un Master 2 professionnelle en Ingénierie du web et des Systèmes Complexes.
+			Je suis un développeur web junior et diplômé d'une Licence en informatique suivi d'un Master professionnel en Ingénierie du web et des Systèmes Complexes.
 
 			Ce portfolio a pour but de présenter les différents projets sur lesquels j'ai travaillé ces dernières années. Vous pouvez également visualiser mon CV.
 
@@ -86,7 +62,7 @@
 					<h3 class="text-center">Expériences</h3>
 					<ul class="fa-ul">
 					  <li><i class="fa-li fa fa-square"></i>Mise à jour et creation d'une application intranet<br> <b><a href="https://www.emergence-asso.fr/" target="_blank">Emergence - Le Havre</a></b></li>
-						<li><i class="fa-li fa fa-square"></i>Creation d'une interface d'administration sytéme<br> <b><a href="https://www.univ-lehavre.fr/" target="_blank">Université du Havre</a></b></li>
+						<li><i class="fa-li fa fa-square"></i>Creation d'un interface d'administration sytéme<br> <b><a href="https://www.univ-lehavre.fr/" target="_blank">Université du Havre</a></b></li>
 						<li><i class="fa-li fa fa-square"></i>Dévelopement d'un portail web sous symfony 3<br> <b><a href="http://www.conseils-plus.fr/" target="_blank">Conseils-plus - Paris</a></b></li>
 						<li><i class="fa-li fa fa-square"></i>Dévelopement des outils QMAC<br> <b><a href="https://www.enr-cert.com/" target="_blank">ENR'CERT - Paris</a></b></li>
 					</ul>
@@ -96,7 +72,7 @@
 					<h3 class="text-center">Compétence</h3>
 					<ul class="fa-ul">
 					  <li><i class="fa-li fa fa-square"></i>Back-End        <progress value="75" max="100">75%</progress></li><br>
-					  <li><i class="fa-li fa fa-square"></i>Front-End      <progress value="60" max="100">60%</progress> </li><br>
+					  <li><i class="fa-li fa fa-square"></i>Front-End      <progress value="50" max="100">60%</progress> </li><br>
 					  <li><i class="fa-li fa fa-square"></i>Back-Office      <progress value="67.5" max="100">68%</progress></li>
 					</ul>
 				</div>
@@ -140,63 +116,7 @@
 </main>
 
 
-<footer id="footer" class="topspace">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-4 widget">
-				<h3 class="widget-title">Adresse :</h3>
-				<div class="widget-body">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2615.0289002334803!2d2.031806151421951!3d49.048074079204994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6f4975ab394cb%3A0xaa6528b2e751ff8b!2s10+Place+du+March%C3%A9%2C+95800+Cergy!5e0!3m2!1sfr!2sfr!4v1517680387903" width="330" height="170" frameborder="0" style="border:0" allowfullscreen></iframe>
-				</div>
-			</div>
-
-			<div class="col-md-4 widget">
-				<h3 class="widget-title">Suivez moi sur :</h3>
-				<div class="widget-body">
-					<p class="follow-me-icons">
-						<a href="https://bitbucket.org/seckbara/refonteemergence"><i class="fa fa-bitbucket" aria-hidden="true"></i></a>
-						<a href="https://www.linkedin.com/in/bara-seck-75b137123?trk=hp-identity-photo"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-						<a href="https://www.facebook.com/bara.seck.376"><i class="fa fa-facebook fa-2"></i></a>
-					</p>
-				</div>
-			</div>
-
-			<div class="col-md-4 widget">
-				<h3 class="widget-title">Contact :</h3>
-				<div class="widget-body">
-					<p>
-						<b>Télephone</b> : 0033698627516<br>
-						<b>Messagerie</b> :<a href="mailto:seckbara12@hotmail.com"> seckbara12@hotmail.com</a><br>
-						<b>Adresse</b>: 10 place du marche, 95800 Cergy
-					</p>
-				</div>
-			</div>
-
-		</div>
-	</div>
-</footer>
-
-<footer id="underfooter">
-	<div class="container">
-		<div class="row">
-
-			<div class="col-md-6 widget">
-				<div class="widget-body">
-					<p>10 place du marche 95800 Cergy</p>
-				</div>
-			</div>
-
-			<div class="col-md-6 widget">
-				<div class="widget-body">
-					<p class="text-right">
-						Copyright &copy; 2018, Bara Mamadou Seck<br>
-				</div>
-			</div>
-
-		</div> <!-- /row of widgets -->
-	</div>
-</footer>
-
+<?php include 'assets/include/footer.php'?>
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>

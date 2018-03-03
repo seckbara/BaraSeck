@@ -10,3 +10,5 @@ setSubject($_POST['subject'])->
 setText($_POST['content'])->
 setHtml('<strong>'.$_POST['content'].'</strong> <br><br><br> Téléphone :'.$_POST['mobile']);
 $mailin->send();
+
+

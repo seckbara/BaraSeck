@@ -33,7 +33,7 @@
 				<div class="row widget">
 					<div class="col-xs-12">
 						<h4 style="color: firebrick;">Refonte Emergence</h4>
-						<p><a href="http://www.emergence.bara-seck.fr/" target="_blank"><img src="assets/images/emergence.png" alt=""></a></p>
+						<p><a href="http://www.emergence.bara-seck.fr/" target="_blank"><img src="assets/images/emergence.PNG" alt=""></a></p>
 					</div>
 				</div>
 			</aside>

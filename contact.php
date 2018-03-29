@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author"      content="">
 
-    <title>Réalisation</title>
+    <title>Contact</title>
     <link rel="shortcut icon" href="assets/images/incone.jpg">
     <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
@@ -35,7 +35,7 @@
                 <form role="form" action="scripts/envoie.php" id="form" method="post">
                     <br style="clear:both">
                     <div class="alert alert-success" id="success" role="alert" style="display: none">
-                        Votre mail a été envoyer.
+                        Votre mail a été envoyer. Je reviendrai vers vous dans les plus brefs délais.
                     </div>
                     <h3 style="margin-bottom: 25px; text-align: center;">Formulaire de contact</h3>
                     <div class="form-group">
@@ -76,6 +76,9 @@
         $.post( "scripts/envoie.php", $(this).serializeArray())
             .done(function( data ) {
                 $('#success').show();
+                window.setTimeout( function(){
+                    window.location = "index.php";
+                }, 4000 );
             });
     });
 

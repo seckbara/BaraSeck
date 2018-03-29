@@ -12,9 +12,9 @@
                 <h3 class="widget-title">Suivez moi sur :</h3>
                 <div class="widget-body">
                     <p class="follow-me-icons">
-                        <a href="https://bitbucket.org/seckbara/refonteemergence"><i class="fa fa-bitbucket" aria-hidden="true"></i></a>
-                        <a href="https://www.linkedin.com/in/bara-seck-75b137123?trk=hp-identity-photo"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                        <a href="https://www.facebook.com/bara.seck.376"><i class="fa fa-facebook fa-2"></i></a>
+                        <a href="https://bitbucket.org/seckbara/refonteemergence" target="_blank"><i class="fa fa-bitbucket" aria-hidden="true"></i></a>
+                        <a href="https://www.linkedin.com/in/bara-seck-75b137123?trk=hp-identity-photo" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                        <a href="https://www.facebook.com/bara.seck.376" target="_blank"><i class="fa fa-facebook fa-2"></i></a>
                     </p>
                 </div>
             </div>
@@ -23,7 +23,7 @@
                 <h3 class="widget-title">Contact :</h3>
                 <div class="widget-body">
                     <p>
-                        <b>Télephone</b> : 0033698627516<br>
+                        <b>Télephone</b> : 06.98.62.75.16<br>
                         <b>Messagerie</b> :<a href="mailto:seckbara12@hotmail.com"> baraseck1208@gmail.com</a><br>
                         <b>Adresse</b>: 10 place du marche, 95800 Cergy
                     </p>

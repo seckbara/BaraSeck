@@ -51,18 +51,18 @@
 				<div class="col-sm-4 col-md-4">
 					<h3 class="text-center">Etudes Universitaire</h3>
 					<ul class="fa-ul">
-					<li><i class="fa-li fa fa-square"></i>Baccalaureat Série Mathématique<br> <b>Université de Nouackhott</b></li>
-					  <li><i class="fa-li fa fa-square"></i>Licence Mathématique-Informatique<br> <b>Université de Nouackhott</b></li>
-					  <li><i class="fa-li fa fa-square"></i>Licence Informatique <br> <b>Université du Havre</b></li>
-					  <li><i class="fa-li fa fa-square"></i>Master-Informatique Ingénierie du web <br> <b>Université du Havre</b></li>
+                        <li><i class="fa-li fa fa-square"></i>Baccalaureat Série Mathématique<br> <b><a href="#">Université de Nouackhott</a></b></li>
+                        <li><i class="fa-li fa fa-square"></i>Licence Mathématique-Informatique<br> <b><a href="#">Université de Nouackhott</a></b></li>
+                        <li><i class="fa-li fa fa-square"></i>Licence Informatique <br> <b><a href="https://www.univ-lehavre.fr/" target="_blank">Université du Havre</a></b></li>
+                        <li><i class="fa-li fa fa-square"></i>Master-Informatique Ingénierie du web <br> <b><a href="https://www.univ-lehavre.fr/" target="_blank">Université du Havre</a></b></li>
 					</ul>
 				</div>
 
 				<div class="col-sm-4 col-md-4">
 					<h3 class="text-center">Expériences</h3>
 					<ul class="fa-ul">
-					  <li><i class="fa-li fa fa-square"></i>Mise à jour et creation d'une application intranet<br> <b><a href="https://www.emergence-asso.fr/" target="_blank">Emergence - Le Havre</a></b></li>
-						<li><i class="fa-li fa fa-square"></i>Creation d'un interface d'administration sytéme<br> <b><a href="https://www.univ-lehavre.fr/" target="_blank">Université du Havre</a></b></li>
+					  <li><i class="fa-li fa fa-square"></i>Mise à jour et création de nouvelles fonctionnalité sur les applications intranet. Refonte du site internet et optimisation du site selon les différents résolution d'écran intranet<br> <b><a href="https://www.emergence-asso.fr/" target="_blank">Emergence - Le Havre</a></b></li>
+						<li><i class="fa-li fa fa-square"></i>Creation d'un interface web permettant d'administrer des sytémes distants sous unix<br> <b><a href="https://www.univ-lehavre.fr/" target="_blank">Université du Havre</a></b></li>
 						<li><i class="fa-li fa fa-square"></i>Dévelopement d'un portail web sous symfony 3<br> <b><a href="http://www.conseils-plus.fr/" target="_blank">Conseils-plus - Paris</a></b></li>
 						<li><i class="fa-li fa fa-square"></i>Dévelopement des outils QMAC<br> <b><a href="https://www.enr-cert.com/" target="_blank">ENR'CERT - Paris</a></b></li>
 					</ul>

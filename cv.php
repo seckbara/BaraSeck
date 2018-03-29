@@ -32,8 +32,7 @@
 	<div class="infophoto">
 		<div class="info">
 			<p><strong><b>Bara Seck</b></strong>
-			<p><b>Adresse</b>: 10 place du marche 95800, Cergy<br><b>Télephone</b>: +33698627516</p>
-			<p><b>Email</b>: baraseck1208@gmail.com</p>
+			<p><b>Adresse</b>: 10 place du marche 95800, Cergy<br><b>Télephone</b>: +33698627516  <br><b>Email</b>: baraseck1208@gmail.com</p>
 
             <a href="CV.pdf" target="_blank" class="btn btn-primary btn-sm">Visualiser mon cv en pdf</a>
         </div>
@@ -44,7 +43,7 @@
     <div class="section">
         <h2 class="important">Expériences professionneles</h2>
         <div class="section-gauche" id="forma-gauche">
-            <p>Mars 2017 - Aujourd'hui</p>
+            <p>Mars 2017 - Mars 2018</p>
             <p>Jan 2017 - Fev 2017</p><br/>
             <p>Juill 2016 - Nov 2016</p>
             <p>Avr 2014 - Juin 2014</p>
@@ -53,8 +52,7 @@
             <p><strong class="tit">Développement des nouveaux outils QMAC - <i>ENR'CERT - Paris 17</i></strong></p>
             <p><strong class="tit">Développement de fonctionnalités à partir des cahiers de charges - <i>Mayanne group - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clichy</i></strong></p>
             <p><strong class="tit">Développement d'un portail web sous php symfony 3 - <i>CONSEIL-PLUS - Paris 15</i></strong></p>
-            <p><strong class="tit">Mise à jour d'un site web et création des
-                    nouvelles fonctionnalités de l'application &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;intranet - <i>EMERGENCE - le Havre</i></strong></p>
+            <p><strong class="tit">Mise à jour et création de nouvelles fonctionnalité sur les applications intranet. Refonte &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;du site internet et optimisation du site selon les différents résolution d'écran intranet - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>EMERGENCE - le Havre</i></strong></p>
         </div>
     </div>
 	<div class="section">
@@ -66,10 +64,10 @@
 			<p>Sept 2008 – Juin 2009</p>
 		</div>
 		<div class="section-droite">
-			<p><strong class="tit">Master-Informatique Ingénierie du web et des Systèmes Complexes </strong></p>
-			<p><strong class="tit">Licence Informatique Université du Havre</strong></p>
-			<p><strong class="tit">Licence Mathématique-Informatique</strong></p>
-			<p><strong class="tit">Baccalauréat Scientifique série C</strong></p>
+			<p><strong class="tit">&nbsp; Master-Informatique Ingénierie du web et des Systèmes Complexes </strong></p>
+			<p><strong class="tit">&nbsp; Licence Informatique Université du Havre</strong></p>
+			<p><strong class="tit">&nbsp; Licence Mathématique-Informatique</strong></p>
+			<p><strong class="tit">&nbsp; Baccalauréat Scientifique série C</strong></p>
 		</div>
 	</div>
 	<div class="section">
@@ -99,9 +97,9 @@
 			<p>Voyage</p>
 		</div>
 		<div class="section-droite">
-			<p><strong class="tit">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technique</strong></p>
-			<p><strong class="tit">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Football</strong></p>
-			<p><strong class="tit">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turquie, Tunisie, Maroc</strong></p>
+			<p><strong class="tit">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Technique</strong></p>
+			<p><strong class="tit">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Football</strong></p>
+			<p><strong class="tit">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Turquie, Tunisie, Maroc</strong></p>
 		</div>
 	</div>
 </div>

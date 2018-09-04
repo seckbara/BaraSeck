@@ -37,7 +37,6 @@
                     <div class="alert alert-success" id="success" role="alert" style="display: none">
                         Votre mail a été envoyer. Je reviendrai vers vous dans les plus brefs délais.
                     </div>
-                    <h3 style="margin-bottom: 25px; text-align: center;">Formulaire de contact</h3>
                     <div class="form-group">
                         <input type="text" class="form-control" id="name" name="name" placeholder="Nom" required>
                     </div>

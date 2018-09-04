@@ -24,6 +24,7 @@
 </head>
 <body>
 
+
 <?php include_once 'assets/include/header2.php'?>
 
 <main id="main">
@@ -32,23 +33,25 @@
 	<div class="infophoto">
 		<div class="info">
 			<p><strong><b>Bara Seck</b></strong>
-			<p><b>Adresse</b>: 10 place du marche 95800, Cergy<br><b>Télephone</b>: +33698627516  <br><b>Email</b>: baraseck1208@gmail.com</p>
+			<p><b>Adresse</b>: 30, les hauts de marcouvvile 95300, Pontoise<br><b>Télephone</b>: +33698627516  <br><b>Email</b>: baraseck1208@gmail.com</p>
 
             <a href="CV.pdf" target="_blank" class="btn btn-primary btn-sm">Visualiser mon cv en pdf</a>
         </div>
 		<div class="photo">
-			<img src="assets/images/bara.jpg" width="180" height="180">
+			<img src="assets/images/profil.jpg" width="180" height="180">
 		</div>
 	</div>
     <div class="section">
         <h2 class="important">Expériences professionneles</h2>
         <div class="section-gauche" id="forma-gauche">
+            <p>Juin 2018 - Sept 2018</p>
             <p>Mars 2017 - Mars 2018</p>
             <p>Jan 2017 - Fev 2017</p><br/>
             <p>Juill 2016 - Nov 2016</p>
             <p>Avr 2014 - Juin 2014</p>
         </div>
         <div class="section-droite">
+            <p><strong class="tit">Testeur Automaticien - <i>AXA-CS - Paris 17</i></strong></p>
             <p><strong class="tit">Développement des nouveaux outils QMAC - <i>ENR'CERT - Paris 17</i></strong></p>
             <p><strong class="tit">Développement de fonctionnalités à partir des cahiers de charges - <i>Mayanne group - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clichy</i></strong></p>
             <p><strong class="tit">Développement d'un portail web sous php symfony 3 - <i>CONSEIL-PLUS - Paris 15</i></strong></p>
@@ -82,7 +85,7 @@
 		</div>
 		<div class="section-droite">
 			<p><strong class="tit">Mysql, Postgresql, Oracle, Nosql, Mongodb</strong></p>
-			<p><strong class="tit">Java, C, C++, PHP5, PHP7, Matlab, R, Cplex</strong></p>
+			<p><strong class="tit">Java, PHP5, PHP7</strong></p>
 			<p><strong class="tit">HTML5, CSS3 , JAVASCRIP, XML, JQUERY, Ajax</strong></p>
 			<p><strong class="tit">Bootstrap4, Foundation5, Symfony3.4</strong></p>
 			<p><strong class="tit">UNIX, Windows, Linux, Ubuntu</strong></p>

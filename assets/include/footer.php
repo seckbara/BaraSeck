@@ -14,7 +14,8 @@
                     <p class="follow-me-icons">
                         <a href="https://bitbucket.org/seckbara/refonteemergence" target="_blank"><i class="fa fa-bitbucket" aria-hidden="true"></i></a>
                         <a href="https://www.linkedin.com/in/bara-seck-75b137123?trk=hp-identity-photo" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                        <a href="https://www.facebook.com/bara.seck.376" target="_blank"><i class="fa fa-facebook fa-2"></i></a>
+                        <a href="https://github.com/seckbara" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+
                     </p>
                 </div>
             </div>
@@ -25,7 +26,7 @@
                     <p>
                         <b>Télephone</b> : 06.98.62.75.16<br>
                         <b>Messagerie</b> :<a href="mailto:seckbara12@hotmail.com"> baraseck1208@gmail.com</a><br>
-                        <b>Adresse</b>: 10 place du marche, 95800 Cergy
+                        <b>Adresse</b>: 30, les hauts de marcouville 95300 Pontoise
                     </p>
                 </div>
             </div>
@@ -40,7 +41,7 @@
 
             <div class="col-md-6 widget">
                 <div class="widget-body">
-                    <p>10 place du marche 95800 Cergy</p>
+                    <p>30, les hauts de marcouville 95300 Pontoise</p>
                 </div>
             </div>
 

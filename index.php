@@ -28,7 +28,7 @@
 	<div class="container">
 			<div class="row section topspace">
 			<div class="col-md-12">
-			<h2 align="center" class="cli">Bienvenue ! </h2><br>
+                <h2 align="center" class="cli">Bienvenue !</h2><br>
 			<p class="paragraphe">
 			Je suis un développeur web junior et diplômé d'une Licence en informatique suivi d'un Master professionnel en Ingénierie du web et des Systèmes Complexes.
 
@@ -45,11 +45,11 @@
 		</div> <!-- / section -->
 
 		<div class="row section featured topspace">
-			<h2 class="section-title"><span class="cli">Etudes</span></h2>
+			<h2 class="section-title cli"><span class="cli">Etudes</span></h2>
 			<div class="row">
 
-				<div class="col-sm-4 col-md-4">
-					<h3 class="text-center">Etudes Universitaire</h3>
+				<div class="col-sm-3 col-md-3">
+					<h3 class="text-center">Etudes</h3>
 					<ul class="fa-ul">
                         <li><i class="fa-li fa fa-square"></i>Baccalaureat Série Mathématique<br> <b><a href="#">Université de Nouackhott</a></b></li>
                         <li><i class="fa-li fa fa-square"></i>Licence Mathématique-Informatique<br> <b><a href="#">Université de Nouackhott</a></b></li>
@@ -58,24 +58,33 @@
 					</ul>
 				</div>
 
-				<div class="col-sm-4 col-md-4">
+				<div class="col-sm-3 col-md-3">
 					<h3 class="text-center">Expériences</h3>
 					<ul class="fa-ul">
 					  <li><i class="fa-li fa fa-square"></i>Mise à jour du site et création de nouvelles fonctionnalité sur les applications intranet.<br> <b><a href="https://www.emergence-asso.fr/" target="_blank">Emergence - Le Havre</a></b></li>
 						<li><i class="fa-li fa fa-square"></i>Dévelopement d'un portail web sous symfony 3<br> <b><a href="http://www.conseils-plus.fr/" target="_blank">Conseils-plus - Paris</a></b></li>
                         <li><i class="fa-li fa fa-square"></i>Développement de fonctionnalités à partir des cahiers de charges<br> <b><a href="https://paroledemamans.com/" target="_blank">Mayanne|group - Clichy</a></b></li>
                         <li><i class="fa-li fa fa-square"></i>Dévelopement des outils QMAC<br> <b><a href="https://www.enr-cert.com/" target="_blank">ENR'CERT - Paris</a></b></li>
+                        <li><i class="fa-li fa fa-square"></i>Testeur Automaticien<br> <b><a href="https://www.axa-corporatesolutions.com/" target="_blank">AXA-CS - Paris</a></b></li>
 					</ul>
 				</div>
 
-				<div class="col-sm-4 col-md-4">
-					<h3 class="text-center">Compétence</h3>
-					<ul class="fa-ul">
-					  <li><i class="fa-li fa fa-square"></i>Back-End        <progress value="75" max="100">75%</progress></li><br>
-					  <li><i class="fa-li fa fa-square"></i>Front-End      <progress value="50" max="100">60%</progress> </li><br>
-					  <li><i class="fa-li fa fa-square"></i>Back-Office      <progress value="67.5" max="100">68%</progress></li>
-					</ul>
-				</div>
+				<div class="col-sm-3 col-md-3">
+                    <h3 class="text-center">Compétence</h3>
+                    <ul class="fa-ul">
+                        <li><i class="fa-li fa fa-square"></i>Back-End        <progress value="75" max="100">75%</progress></li><br>
+                        <li><i class="fa-li fa fa-square"></i>Front-End      <progress value="50" max="100">60%</progress> </li><br>
+                        <li><i class="fa-li fa fa-square"></i>Back-Office      <progress value="67.5" max="100">68%</progress></li>
+                    </ul>
+                </div>
+
+                <div class="col-sm-3 col-md-3">
+                    <h3 class="text-center">Fomation </h3>
+                    <ul class="fa-ul">
+                        <li><i class="fa-li fa fa-square"></i>Automatisation de tests
+                    </ul>
+                </div>
+
 			</div>
 		</div> <!-- / section -->
 

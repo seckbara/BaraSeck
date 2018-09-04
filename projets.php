@@ -47,66 +47,6 @@
 			</aside>
 		</div>
 
-		<div class="row topspace">
-			<!-- Sidebar -->
-			<aside class="col-md-4 sidebar sidebar-left">
-				<div class="row widget">
-					<div class="col-xs-12">
-						<h4 style="color: blue;">Ghost sous unix</h4>
-						<p><a href="#"><img src="assets/images/ghost.jpg" alt=""></a></p>
-					</div>
-				</div>
-			</aside>
-
-			<aside class="col-md-8 sidebar sidebar-left">
-				<div class="row widget">
-					<div class="col-xs-12">
-						<h5>Le but de ce projet était de développer un interface web qui permet d'administrer des sytémes distants sous unix.</h5>
-					</div>
-				</div>
-			</aside>
-		</div>
-
-		<div class="row topspace">
-			<aside class="col-md-4 sidebar sidebar-left">
-					<div class="row widget">
-						<div class="col-xs-12">
-							<h4 style="color: darkturquoise;">Touchepasmationalité</h4>
-							<p><a href="https://touchepasmanationalite.org/" target="_blank"><img src="assets/images/site.PNG" alt=""></a></p>
-						</div>
-					</div>
-				</aside>
-
-				<aside class="col-md-8 sidebar sidebar-left">
-					<div class="row widget">
-						<div class="col-xs-12">
-							<h5>C'est un site que j'ai créé pour un mouvement mauritanien, Il a pour but de faciliter l'échange de l'ensemble des informations concernant ce mouvement.
-							</h5>
-						</div>
-					</div>
-				</aside>
-		</div>
-
-		<div class="row topspace">
-			<aside class="col-md-4 sidebar sidebar-left">
-					<div class="row widget">
-						<div class="col-xs-12">
-							<h4>Université du havre</h4>
-							<p><a href="#"><img src="assets/images/univ.JPG" alt=""></a></p>
-						</div>
-					</div>
-				</aside>
-
-				<aside class="col-md-8 sidebar sidebar-left">
-					<div class="row widget">
-						<div class="col-xs-12">
-							<h5>C'est un site qui a été fait en groupe de 7.
-                                Son but était de gérer l'ensemble des données du cycle Master Informatique de l'Université du Havre pour répondre aux besoins du personnel administratif et des étudiants.
-						</div>
-					</div>
-				</aside>
-		</div>
-
 	</div>	<!-- /container -->
 
 </main>

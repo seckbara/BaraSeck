@@ -30,7 +30,7 @@
 			<div class="col-md-12">
                 <h2 align="center" class="cli">Bienvenue !</h2><br>
 			<p class="paragraphe">
-			Je suis un développeur web junior et diplômé d'une Licence en informatique suivi d'un Master professionnel en Ingénierie du web et des Systèmes Complexes.
+                Je suis un développeur web junior et diplômé d'une licence en informatique suivi d'un master professionnel en ingénierie du web et des systèmes complexes.
 
 			Ce portfolio a pour but de présenter les différents projets sur lesquels j'ai travaillé ces dernières années. Vous pouvez également visualiser mon CV.
 
@@ -54,7 +54,7 @@
                         <li><i class="fa-li fa fa-square"></i>Baccalaureat Série Mathématique<br> <b><a href="#">Université de Nouackhott</a></b></li>
                         <li><i class="fa-li fa fa-square"></i>Licence Mathématique-Informatique<br> <b><a href="#">Université de Nouackhott</a></b></li>
                         <li><i class="fa-li fa fa-square"></i>Licence Informatique <br> <b><a href="https://www.univ-lehavre.fr/" target="_blank">Université du Havre</a></b></li>
-                        <li><i class="fa-li fa fa-square"></i>Master-Informatique Ingénierie du web <br> <b><a href="https://www.univ-lehavre.fr/" target="_blank">Université du Havre</a></b></li>
+                        <li><i class="fa-li fa fa-square"></i>Master Ingénierie du web <br> <b><a href="https://www.univ-lehavre.fr/" target="_blank">Université du Havre</a></b></li>
 					</ul>
 				</div>
 
@@ -69,19 +69,20 @@
 					</ul>
 				</div>
 
-				<div class="col-sm-3 col-md-3">
-                    <h3 class="text-center">Compétence</h3>
+				<div class="col-sm-2 col-md-2">
+                    <h3 class="text-center">Compétences</h3>
                     <ul class="fa-ul">
-                        <li><i class="fa-li fa fa-square"></i>Back-End        <progress value="75" max="100">75%</progress></li><br>
-                        <li><i class="fa-li fa fa-square"></i>Front-End      <progress value="50" max="100">60%</progress> </li><br>
-                        <li><i class="fa-li fa fa-square"></i>Back-Office      <progress value="67.5" max="100">68%</progress></li>
+                        <li><i class="fa-li fa fa-square"></i>Back-End        <progress value="85" max="100">85%</progress></li><br>
+                        <li><i class="fa-li fa fa-square"></i>Front-End      <progress value="40" max="100">40%</progress> </li><br>
+                        <li><i class="fa-li fa fa-square"></i>Back-Office      <progress value="70" max="100">70%</progress></li>
                     </ul>
                 </div>
 
-                <div class="col-sm-3 col-md-3">
-                    <h3 class="text-center">Fomation </h3>
+                <div class="col-sm-4 col-md-4">
+                    <h3 class="text-center">Fomations </h3>
                     <ul class="fa-ul">
-                        <li><i class="fa-li fa fa-square"></i>Automatisation de tests
+                        <li><i class="fa-li fa fa-square"></i>Automatisation de tests chez <b>ib-formation</b>
+                        <li><i class="fa-li fa fa-square"></i>Formation symfony4.1 chez <b>sensiolabs university</b>
                     </ul>
                 </div>
 

@@ -32,7 +32,7 @@
 <div class="page">
 	<div class="infophoto">
 		<div class="info">
-			<p><strong><b>Bara Seck</b></strong>
+			<p><strong><b>Bara SECK</b></strong>
 			<p><b>Adresse</b>: 30, les hauts de marcouvvile 95300, Pontoise<br><b>Télephone</b>: +33698627516  <br><b>Email</b>: baraseck1208@gmail.com</p>
 
             <a href="CV.pdf" target="_blank" class="btn btn-primary btn-sm">Visualiser mon cv en pdf</a>
@@ -41,6 +41,7 @@
 			<img src="assets/images/profil.jpg" width="180" height="180">
 		</div>
 	</div>
+
     <div class="section">
         <h2 class="important">Expériences professionneles</h2>
         <div class="section-gauche" id="forma-gauche">
@@ -55,22 +56,24 @@
             <p><strong class="tit">Développement des nouveaux outils QMAC - <i>ENR'CERT - Paris 17</i></strong></p>
             <p><strong class="tit">Développement de fonctionnalités à partir des cahiers de charges - <i>Mayanne group - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clichy</i></strong></p>
             <p><strong class="tit">Développement d'un portail web sous php symfony 3 - <i>CONSEIL-PLUS - Paris 15</i></strong></p>
-            <p><strong class="tit">Mise à jour et création de nouvelles fonctionnalité sur les applications intranet. Refonte &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;du site internet et optimisation du site selon les différents résolution d'écran intranet - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>EMERGENCE - le Havre</i></strong></p>
+            <p><strong class="tit">Mise à jour et création de nouvelles fonctionnalité sur les applications intranet. - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>EMERGENCE - le Havre</i></strong></p>
         </div>
     </div>
 	<div class="section">
-	<h2 class="important">Formation</h2>
+	<h2 class="important">Formations</h2>
 		<div class="section-gauche" id="forma-gauche">
+			<p>Sept 2018 – Dec 2018</p>
 			<p>Sept 2014 – Juin 2016</p>
 			<p>Sept 2013 – Juin 2014</p>
 			<p>Sept 2011 – Juin 2012</p>
 			<p>Sept 2008 – Juin 2009</p>
 		</div>
 		<div class="section-droite">
-			<p><strong class="tit">&nbsp; Master-Informatique Ingénierie du web et des Systèmes Complexes </strong></p>
-			<p><strong class="tit">&nbsp; Licence Informatique Université du Havre</strong></p>
-			<p><strong class="tit">&nbsp; Licence Mathématique-Informatique</strong></p>
-			<p><strong class="tit">&nbsp; Baccalauréat Scientifique série C</strong></p>
+			<p><strong class="tit">&nbsp; Formation symfony4.1 chez sensiolabs </strong></p>
+			<p><strong class="tit">&nbsp; Master-Informatique Ingénierie du web et des Systèmes Complexes Université du Havre</strong></p>
+			<p><strong class="tit">&nbsp; Licence en Informatique Université du Havre</strong></p>
+			<p><strong class="tit">&nbsp; Licence en Mathématique-Informatique Université de nouakchott</strong></p>
+			<p><strong class="tit">&nbsp; Baccalauréat Scientifique série mathématique lycée de nouadhibou</strong></p>
 		</div>
 	</div>
 	<div class="section">

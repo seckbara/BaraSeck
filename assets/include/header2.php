@@ -2,7 +2,7 @@
     <div id="head" class="parallax" parallax-speed="1">
         <h1 id="logo" class="text-center">
             <span class="title">Bara Mamadou Seck</span>
-            <span class="tagline">Développeur PHP<br><br>
+            <span class="tagline">Développeur Symfony<br><br>
         </h1>
     </div>
 

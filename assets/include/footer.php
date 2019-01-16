@@ -14,7 +14,7 @@
                     <p class="follow-me-icons">
                         <a href="https://bitbucket.org/seckbara/refonteemergence" target="_blank"><i class="fa fa-bitbucket" aria-hidden="true"></i></a>
                         <a href="https://www.linkedin.com/in/bara-seck-75b137123?trk=hp-identity-photo" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                        <a href="https://github.com/seckbara" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                        <a href="https://gitlab.com/seckbara" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
 
                     </p>
                 </div>

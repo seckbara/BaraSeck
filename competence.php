@@ -67,8 +67,6 @@
             <div class="col-lg-12">
                 <p align="center">
                     <img src="assets/images/phpstorm.png" title="phpstorm" width="150">
-                    <img src="assets/images/neatbeans.jpeg" title="netbeans" width="150">
-                    <img src="assets/images/eclipse.png" title="eclipse" width="150">
                     <img src="assets/images/git.png" title="git" width="150">
                 </p>
             </div>

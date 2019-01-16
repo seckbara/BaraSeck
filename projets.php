@@ -42,6 +42,10 @@
 				<div class="row widget">
 					<div class="col-xs-12">
 						<h5>Le but de ce projet est de faire une refonte globale d'une application de gestion d'adhérents en utilisant les technologies récentes.</h5>
+
+                        <p><b>Environnement :</b><br>
+                            PHP7, GIT, Trello, Bower, PHPSTORM, Mysql
+                        </p>
 					</div>
 				</div>
 			</aside>
@@ -55,8 +59,8 @@
             <aside class="col-md-4 sidebar sidebar-left">
                 <div class="row widget">
                     <div class="col-xs-12">
-                        <h4 style="color: firebrick;">BMSHOP</h4>
-                        <p><a href="http://www.bmshop.bara-seck.fr/" target="_blank"><img src="assets/images/bmshop.PNG" alt=""></a></p>
+                        <h4 style="color: firebrick;">MyBooking</h4>
+                        <p><a href="http://www.bmshop.bara-seck.fr/" target="_blank"><img src="assets/images/mybooking.PNG" alt=""></a></p>
                     </div>
                 </div>
             </aside>
@@ -64,38 +68,16 @@
             <aside class="col-md-8 sidebar sidebar-left">
                 <div class="row widget">
                     <div class="col-xs-12">
-                        <h5>Le but de ce projet est de faire un site de vente en ligne, ce site à été fait en worpress.</h5>
+                        <h5>Le but de ce projet est de faire une application de gestion de réservation de salles sous symfony.</h5>
+                        <p><b>Environnement :</b><br>
+                            Symfony4.1, GIT, Trello, Yarn, Webpack, PHPSTORM, Mysql
+                        </p>
                     </div>
                 </div>
             </aside>
         </div>
 
     </div>	<!-- /container -->
-
-
-    <div class="container">
-
-        <div class="row topspace">
-            <aside class="col-md-4 sidebar sidebar-left">
-                <div class="row widget">
-                    <div class="col-xs-12">
-                        <h4 style="color: firebrick;">Application de gestion des utilisateurs (Projet en cours)</h4>
-                        <p><a href="http://www.gestionusers.bara-seck.fr/" target="_blank"><img src="assets/images/gestion.PNG" alt=""></a></p>
-                    </div>
-                </div>
-            </aside>
-
-            <aside class="col-md-8 sidebar sidebar-left">
-                <div class="row widget">
-                    <div class="col-xs-12">
-                        <h5>Le but de ce projet est de faire une application qui permet de gerer des utlisateurs qui pourront se connecter via les differentes applications.</h5>
-                    </div>
-                </div>
-            </aside>
-        </div>
-
-    </div>	<!-- /container -->
-
 </main>
 
 <?php include 'assets/include/footer.php'?>
